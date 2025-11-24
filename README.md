@@ -132,7 +132,3 @@ Tests cover:
 
 This project is for educational and portfolio purposes.  
 Feel free to modify and extend it for your own learning.
-
----
-
-add a demo and instructions on how to download the app in this read me. No emoji's! and write it in mark down so I can copy and paste.
