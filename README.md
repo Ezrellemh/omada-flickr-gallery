@@ -10,7 +10,12 @@ The app fetches images from the Flickr API, supports searching, pagination, deta
 
 Below is an example showcasing the app's core experience:
 
-(Insert your screenshots or screen recordings here.)
+https://github.com/user-attachments/assets/a6592bd3-1d90-448f-8542-62338cfa36fb
+
+(You can download this [video](https://github.com/Ezrellemh/omada-flickr-gallery/blob/main/Screen_Recording_20251124_001959_Gallery.mp4) if you're interested in seeing all the functionalities.)
+
+https://github.com/user-attachments/assets/b9341122-5e7f-426d-acea-a391ed2af10d
+
 
 ---
 
