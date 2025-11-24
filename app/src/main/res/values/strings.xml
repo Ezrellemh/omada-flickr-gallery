@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Omada Flickr Gallery</string>
+    <string name="flickr_gallery">Flickr Gallery</string>
+    <string name="search_photos">Search photos…</string>
+    <string name="search">Search</string>
+    <string name="no_photos_found">No photos found</string>
+    <string name="no_title_data">(No title data)</string>
+    <string name="error_message">Something went wrong. Please try again.</string>
+    <string name="failed_loading">Failed to load image.</string>
+    <string name="retry">Retry</string>
+    <string name="back">back</string>
+</resources>
