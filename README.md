@@ -108,8 +108,6 @@ Core layers:
 ## Running the App
 
 1. Add your Flickr API credentials inside your `gradle.properties`:
-
-
 2. Build & run the project in Android Studio (Giraffe or newer recommended).
 
 ---
@@ -129,25 +127,6 @@ Tests cover:
 - Search flow
 - Navigation effects
 - Retry behavior
-
----
-
-## Project Structure
-
-app/
-├── data/
-│ ├── remote/ (Flickr API)
-│ └── repository/
-├── domain/
-│ └── model/
-├── ui/
-│ ├── home/
-│ ├── detail/
-│ ├── navigation/
-│ └── ErrorScreen.kt
-├── mvi/
-├── util/
-└── MainActivity.kt
 
 ## License
 
