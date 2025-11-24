@@ -16,15 +16,6 @@ Below is an example showcasing the app's core experience:
 
 ## How to Download the App
 
-### Option 1: Download APK from Releases
-1. Navigate to the GitHub repository.
-2. Go to the Releases section.
-3. Download the latest `app-release.apk`.
-4. Transfer it to your Android device if needed.
-5. Install it by opening the APK file on your device.
-
-### Option 2: Build Locally From Source
-
 1. Have an android device (physical or terminal)
 2. Clone the repository using this command in your termal: `git clone https://github.com/yourusername/flickr-gallery-app.git`
 3. Run the project in Android Studio
